@@ -1,5 +1,4 @@
-# 💫 About Me:
-## 🙋‍♂️ About Me<br><br>🔭 Currently building Machine Learning projects.<br><br>👯 Open to collaborating on Python, ML, and Full Stack (MERN / Flask) projects.<br><br>🌱 Currently learning Deep Learning, NLP, and ML model deployment.<br><br>💬 Ask me about Python, Machine Learning, Flask stack.<br><br>⚡ Fun fact: I enjoy converting ML models into real-world applications.
+# 🙋‍♂️ About Me<br><br>🔭 Currently building Machine Learning projects.<br><br>👯 Open to collaborating on Python, ML, and Full Stack (MERN / Flask) projects.<br><br>🌱 Currently learning Deep Learning, NLP, and ML model deployment.<br><br>💬 Ask me about Python, Machine Learning, Flask stack.<br><br>⚡ Fun fact: I enjoy converting ML models into real-world applications.
 
 
 ## 🌐 Socials:
